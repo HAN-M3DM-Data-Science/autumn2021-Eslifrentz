@@ -18,7 +18,7 @@ library(plotly)
 
 ---
   # Understanding the data
-  The data set contains laboratory values of blood donors, Hepatitis C patients and their demographic values.
+  The data set contains data about laboratory values of blood donors, Hepatitis C patients and their demographic values.
 
 # Obtaining the data
 
